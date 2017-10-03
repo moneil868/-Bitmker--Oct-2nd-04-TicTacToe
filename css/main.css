@@ -1,0 +1,32 @@
+body {
+  background: #eee;
+}
+
+main {
+  margin: 5rem;
+  background-color: white;
+  padding: 1rem;
+}
+
+.centered {
+  text-align: center;
+}
+
+.game-board{
+  padding: 3rem 5rem;
+  width: 22rem;
+  margin: 3rem auto;
+}
+
+.game-squares {
+  height: 4rem;
+  width: 4rem;
+  background-color: #ded;
+  margin: 0.5rem;
+  vertical-align: top;
+  display: inline-grid;
+  text-align: center;
+  padding: 1rem;
+  line-height: 4rem;
+  font-size: 4rem;
+}
